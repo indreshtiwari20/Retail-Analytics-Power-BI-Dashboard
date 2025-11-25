@@ -1,0 +1,24 @@
+table 1,customer_id,customer_first_name,customer_last_name,category_name,product_name,customer_segment,customer_city,customer_state,customer_country,customer_region,delivery_status,order_date,order_id,ship_date,shipping_type,days_for_shipment_scheduled,days_for_shipment_real,order_item_discount,sales_per_order,order_quantity,profit_per_order
+,C_ID_45866,Mary,Fuller,Office Supplies,Xerox 1913,Corporate,New Rochelle,New York,United States,East,Shipping on time,11-05-2022,O_ID_3001072,11-07-2022,Second Class,2,2,35,500,5,223.1999969
+,C_ID_44932,Alan,Edelman,Office Supplies,#6 3/4 Gummed Flap White Envelopes,Corporate,Houston,Texas,United States,Central,Shipping canceled,20-06-2022,O_ID_3009170,23-06-2022,Second Class,2,3,85,500,5,199.1999969
+,C_ID_70880,Mary,Gayman,Office Supplies,Belkin 8 Outlet Surge Protector,Consumer,Louisville,Kentucky,United States,South,Late delivery,25-06-2022,O_ID_3047567,30-06-2022,Standard Class,4,5,75,44,5,195.5
+,C_ID_33157,Raymond,Eason,Office Supplies,GBC VeloBinder Manual Binding System,Corporate,Chicago,Illinois,United States,Central,Late delivery,10-06-2022,O_ID_3060575,10-10-2022,Second Class,2,4,60,254,1,220
+,C_ID_58303,Mary,Gonzalez,Furniture,Eldon Pizzaz Desk Accessories,Home Office,Philadelphia,Pennsylvania,United States,East,Late delivery,02-05-2022,O_ID_3064311,08-01-2022,First Class,1,2,125,500,1,97.5
+,C_ID_34556,Joe,Leatherbury,Office Supplies,Hoover Shoulder Vac Commercial Portable Vacuum,Home Office,Columbia,South Carolina,United States,South,Shipping on time,24-06-2022,O_ID_3074984,28-06-2022,Standard Class,4,4,80,500,2,-349.8599854
+,C_ID_56882,Mary,Etezadi,Office Supplies,Rogers Handheld Barrel Pencil Sharpener,Home Office,Henderson,Kentucky,United States,South,Advance shipping,07-10-2022,O_ID_3000007,16-04-2022,Standard Class,4,3,45,299.980011,5,71.40000153
+,C_ID_51638,Andrea,O'Briant,Office Supplies,"Dixon Prang Watercolor Pencils, 10-Color Set with Brush",Corporate,Athens,Georgia,United States,South,Shipping on time,26-01-2022,O_ID_3000008,30-01-2022,Standard Class,4,4,45,299.980011,5,-31.87000084
+,C_ID_60578,Mary,Etezadi,Office Supplies,Ibico Hi-Tech Manual Binding System,Home Office,Henderson,Kentucky,United States,South,Shipping on time,09-03-2022,O_ID_3000009,09-07-2022,Standard Class,4,4,48,299.980011,5,118.4300003
+,C_ID_55200,Mary,Etezadi,Office Supplies,"Alliance Super-Size Bands, Assorted Sizes",Home Office,Henderson,Kentucky,United States,South,Late delivery,19-03-2022,O_ID_3000010,25-03-2022,Standard Class,4,6,48,299.980011,5,78.87000275
+,C_ID_61171,Mary,Etezadi,Office Supplies,Southworth 25% Cotton Granite Paper & Envelopes,Home Office,Henderson,Kentucky,United States,South,Advance shipping,09-11-2022,O_ID_3000011,16-06-2022,Standard Class,4,2,48,299.980011,5,123.4700012
+,C_ID_50457,Richard,Pak,Technology,Logitech K350 2.4Ghz Wireless Keyboard,Consumer,Madison,Wisconsin,United States,Central,Late delivery,19-06-2022,O_ID_3079653,22-06-2022,Second Class,2,3,90,42,2,-88.97000122
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Table 2,state,latitude,longitude,name,,,,,,,,,,,,,,,,,
+,AK,63.588753,-154.493062,Alaska,,,,,,,,,,,,,,,,,
+,AL,32.318231,-86.902298,Alabama,,,,,,,,,,,,,,,,,
+,AR,35.20105,-91.831833,Arkansas,,,,,,,,,,,,,,,,,
+,AZ,34.048928,-111.093731,Arizona,,,,,,,,,,,,,,,,,
+,CA,36.778261,-119.417932,California,,,,,,,,,,,,,,,,,
+,CO,39.550051,-105.782067,Colorado,,,,,,,,,,,,,,,,,
+,CT,41.603221,-73.087749,Connecticut,,,,,,,,,,,,,,,,,
+,DC,38.905985,-77.033418,District of Columbia,,,,,,,,,,,,,,,,,
